@@ -1,0 +1,1 @@
+# django_tutorial_clever_programmer
